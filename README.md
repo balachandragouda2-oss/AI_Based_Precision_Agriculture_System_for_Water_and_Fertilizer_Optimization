@@ -144,7 +144,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**Balachandragouda**
+**Balachandragouda, Chethan, Dhruv, Dhanush**
 
 ---
 
